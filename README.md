@@ -3,6 +3,11 @@ parcial1
 #Parcial 2 - Porafolio
 ----
 
-- 1 **Modelo**<br>
+- 1 **Overiew**<br>
 
-![=veriew](https://github.com/XimenaAmay123/Herramientas3/blob/main/Models.png)
+![overiew](https://github.com/XimenaAmay123/Herramientas3/blob/main/Models.png)
+
+- 2 **Models**<br>
+
+- 3 **Metrica**<br>
+
