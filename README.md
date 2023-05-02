@@ -2,6 +2,7 @@
 parcial1
 #Parcial 2 - Porafolio
 ----
+1) **MOELO EN AZURE ML STUDIO**
 
 - 1 **Overiew**<br>
 
