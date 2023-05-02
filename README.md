@@ -8,6 +8,8 @@ parcial1
 ![overiew](https://github.com/XimenaAmay123/Herramientas3/blob/main/Models.png)
 
 - 2 **Models**<br>
+![models](https://github.com/XimenaAmay123/Herramientas3/blob/main/Models.png)
+
 
 - 3 **Metrica**<br>
 
