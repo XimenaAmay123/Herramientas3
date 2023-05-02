@@ -5,7 +5,7 @@ parcial1
 
 - 1 **Overiew**<br>
 
-![overiew](https://github.com/XimenaAmay123/Herramientas3/blob/main/Models.png)
+![overiew](https://github.com/XimenaAmay123/Herramientas3/blob/main/Overview.png)
 
 - 2 **Models**<br>
 ![models](https://github.com/XimenaAmay123/Herramientas3/blob/main/Models.png)
