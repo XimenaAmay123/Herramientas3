@@ -15,11 +15,13 @@ parcial1
 - 3 **Metrica**<br>
 ![metrica](https://github.com/XimenaAmay123/Herramientas3/blob/main/M%C3%A9tricas%20del%20mejor%20modelo.png)
 
+
 2) **PRACTICA DB-LOG DE COMMITS** 
 Practica conecta la base de datos desde el colab
 Link del colab: https://colab.research.google.com/drive/1tgoZ-i-CkdGKwiNuUbD2tlIsWv6AR8mV#scrollTo=pWCdxh4FKaFx
 
-3)**MONGO DB* 
+
+3) **MONGO DB* 
 
 
 4) **Modelos de regresión lineal con streamlit -Iris-**
