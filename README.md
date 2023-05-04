@@ -21,3 +21,4 @@ parcial1
 
 https://ximenaamay123-iris-estadistica-fpurej.streamlit.app/
 ![Estadistica](https://github.com/XimenaAmay123/Herramientas3/blob/main/Captura%20de%20pantalla%20(94).png)
+https://github.com/XimenaAmay123/Herramientas3/blob/main/Captura%20de%20pantalla%20(95).png
